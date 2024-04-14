@@ -21,7 +21,10 @@ Here are the variations of each model we tested
 ![image](https://github.com/Hrushi-E/Airfoil-self-noise-prediction/assets/122773291/87b6c5ff-9b49-403c-9e8b-1feaedeb3781)
 
 
+
 Here are the resulted best models.
+
+
 ![image](https://github.com/Hrushi-E/Airfoil-self-noise-prediction/assets/122773291/dc7b2d45-da2e-4c7a-86a6-9bfb8d52461c)
 
 
